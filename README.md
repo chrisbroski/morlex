@@ -1,6 +1,6 @@
 # Morlex
 
-Discovering ancient writing is a significant historical find, but translation is a slow and difficult process, even for languages a few thousand years old. Is this an inherent problem of communication across the eons, or can a writing system be designed in a simple and intuituve way so that future people with no knowledge of our language and culture could decipher meaning with minimal work? Morlex is an attempt to accomplish this.
+Ancient manuscripts are significant historical finds, but translation can be a slow and difficult process, even for languages a few thousand years old. Is this an inherent problem of communication across the eons, or can a writing system be designed in a simple and intuituve way so that future people with no knowledge of our language and culture could decipher meaning with minimal work? Morlex is an attempt to accomplish this.
 
 Morlex is named after the Morlocks, an intelligent (and sinister) race of human descendants encoutered in H. G. Well's *The Time Traveller*.
 
