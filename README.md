@@ -1,6 +1,6 @@
 # Morlex
 
-Ancient manuscripts are significant historical finds, but translation can be a slow and difficult process, even for languages a few thousand years old. Is this an inherent problem of communication across the eons, or can a writing system be designed in a simple and intuituve way so that future people with no knowledge of our language and culture could decipher meaning with minimal work? Morlex is an attempt to accomplish this.
+Ancient manuscripts are significant historical finds, but translation can be a slow and difficult process, even for languages only a few thousand years old. Is this an inherent problem of communication across the eons, or can a writing system be designed in a simple and intuituve way so that future people with no knowledge of our language and culture could decipher meaning with minimal work? Morlex is an attempt to accomplish this.
 
 Morlex is named after the Morlocks, an intelligent (and sinister) race of human descendants encoutered in H. G. Well's *The Time Traveller*.
 
@@ -14,4 +14,6 @@ Simple drawings should be able to illustrate the meaning of common and important
 
 ### Expanded Lexicon
 
-Because the core symbol set only describes the simplest concepts, any sufficiently complex manuscript could quickly become unwieldy and verbose. It is expected that each author create their own glossary of symbols specific
+Because the core symbol set only describes the simplest concepts, any sufficiently complex manuscript could quickly become unwieldy and verbose. It is expected that each author create their own glossary of symbols specific to their topic using the core pictogram set. When creating the custom glossary, care should be taken not to reinvent symbols that have already been created and are in common use.
+
+### Basic Document Format and Grammar
