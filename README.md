@@ -14,4 +14,4 @@ Simple drawings should be able to illustrate the meaning of common and important
 
 ### Expanded Lexicon
 
-Because the core symbol set only describes the simplest concepts, any sufficiently complex manuscript could quickly become unwieldy and verbose. It is expected that each author
+Because the core symbol set only describes the simplest concepts, any sufficiently complex manuscript could quickly become unwieldy and verbose. It is expected that each author create their own glossary of symbols specific
