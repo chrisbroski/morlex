@@ -16,4 +16,10 @@ Simple drawings should be able to illustrate the meaning of common and important
 
 Because the core symbol set only describes the simplest concepts, any sufficiently complex manuscript could quickly become unwieldy and verbose. It is expected that each author create their own glossary of symbols specific to their topic using the core pictogram set. When creating the custom glossary, care should be taken not to reinvent symbols that have already been created and are in common use.
 
-### Basic Document Format and Grammar
+### Proper Names
+
+The names of specific places and creatures use a cartouche similar to ancient Egyptian Heiroglyphs. The pictograph of the type of thing being named (person, building, planet, etc.) should be at the left side of the cartouche. Other descriptors can follow the initial symbol until a unique combination fill the container. I would guess 3 to 5 extra pictogrphs would be sufficient. An attempt should be made to make the proper name consistent with any known manuscripts.
+
+### Basic Grammar
+
+Compound words can be formed by placing pictographs next to, but not touching each other. Words should be separated with a full, clear space. Sentences should start at the left and flow to the right. 
