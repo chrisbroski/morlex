@@ -6,7 +6,7 @@ Morlex is named after the Morlocks, an intelligent (and sinister) race of human 
 
 ## Language Design
 
-If there is no shared symbolism between ourselves and those we wish to share knowledge with, how can we imply meaning? We will assume that our distant descendants will share much of our basic human condition such as body shape and function. We will also assume they share a similar physical environment including the sky, earth, fire, water, time, plants and animals.
+A million years from now, there will be no relationship between any language from today, but the human condition will still be shared. We will still have eyes and ears, arms and legs. We will still eat food, talk with friends, and have children. The world be be assumed to have certain consistencies too. There will still be the sky, earth, fire, water, time, plants and animals. Drawings of these things can form the start of a shared language, and more advanced concepts can hopefully be built with those initial building blocks.
 
 ### Core Lexicon
 
@@ -47,6 +47,7 @@ This is where the majority of work needs to be done. Even after the first versio
 The first section of the core glossary describes numbers. Morlex uses Arabic decimal numerals and mathematical symbols. The core math operators are +, -, x, /, and exponents. Mathematical operators double as word symbols:
 
 - + is the conjunction *and*
+- \- is the modifier *not*
 - = is the verb *is*
 - ≈ is a verb meaning *similar to*, or *like*
 - > *more*, *better*
