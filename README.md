@@ -26,9 +26,9 @@ There is no requirement to write Morlex quickly, so symbols can be high quality 
 
 ### Basic Grammar
 
-Compound words can be formed by placing pictographs next to, but not touching each other. Words should be separated with a full space equal to the size of a symbol. Sentences should flow from  left to right, top to bottom. The end of a sentence is indicated by the end of the line. It is recommended that sentences fit on a single line, but if that is not possible, the sentence can be continued on the next line indented a single symbol space. Paragraphs are divided by a single blank line. Section titles are centered and separated by a blank line above and below.
+Compound words can be formed by placing pictographs next to, but not touching each other, in reading order of importance. For example, the noun should come first with adjectives listed afterward. Words should be separated with a full space equal to the size of a symbol. Sentences should flow from  left to right, top to bottom. The end of a sentence is indicated by the end of the line. It is recommended that sentences fit on a single line, but if that is not possible, the sentence can be continued on the next line indented a single symbol space. Paragraphs are divided by a single blank line. Section titles are centered and separated by a blank line above and below.
 
-Writing systems nearly universally flow from top to bottom, but there is no clear preference for humans over left-to-right or right-to-left. Because Morlex sentences start flush at one side, the reading direction should be implied by the layout of the page. Morlex could be written both ways but I would prefer to choose one and stick to it. I just wish there was a compelling reason to pick on over the other.
+Writing systems nearly universally flow from top to bottom, but there is no clear preference for humans over left-to-right or right-to-left. Because Morlex sentences start flush at one side, the reading direction should be implied by the layout of the page. Morlex could be written both ways but I would prefer to choose one and stick to it. I just wish there was a compelling reason to pick on over the other. Changing the reading direction could also affect symbols if they are directional.
 
 ### Illustrations
 
@@ -36,4 +36,18 @@ Illustrations are a powerful tool for communicating, especially across a languag
 
 ## Media
 
-If we succeed in creating a language with a quality of extreme decipherability, we still need to store it in a media capable of delivering our messages into the distant future. This media will need to be durable, not only resistant to being destroyed, but able to keep the symbols clear over vast reaches of time, temperature fluctuations, and moderate physical abuse. It will also need to be able to contain an entire Morlex manuscript without being too unwieldy. Because Morlex writing can take up a lot of space and must include core and extended glossaries, the minimum size of a manuscript might be about least 100 page long. The maximum size of a single manuscript will be determined by properties of the physical media.
+If we succeed in creating a language with a quality of extreme decipherability, we still need to store it in a media capable of delivering our messages into the distant future. This media will need to be durable, not only resistant to being destroyed, but able to keep the symbols clear over vast reaches of time, temperature fluctuations, and moderate physical abuse. It will also need to be able to contain an entire Morlex manuscript without being too unwieldy. Because Morlex writing can take up a lot of space and must include core and extended glossaries, the minimum size of a manuscript might be about 100 pages long. The maximum size of a single manuscript will be determined by properties of the physical media.
+
+## Core Symbol Set
+
+This is where the majority of work needs to be done. Even after the first version is complete, testing by measure deciphering speed and comprehension by native speakers and a variety of languages will be necessary for proof of success and feedback for improvements,
+
+### Numbers
+
+The first section of the core glossary describes numbers. Morlex uses Arabic decimal numerals and mathematical symbols. The core math operators are +, -, x, /, and exponents. Mathematical operators double as word symbols:
+
+- + is the conjunction *and*
+- = is the verb *is*
+- ≈ is a verb meaning *similar to*, or *like*
+- > *more*, *better*
+- < *less*, *worse*
